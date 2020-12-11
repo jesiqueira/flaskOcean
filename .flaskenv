@@ -1,2 +1,2 @@
-FLASK_APP = flaskr.py
-FLASK_END = development
+FLASK_APP=flaskr.py
+FLASK_ENV=development
